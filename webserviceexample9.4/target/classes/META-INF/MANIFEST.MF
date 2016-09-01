@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: webserviceexample
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Francob
+Implementation-Vendor-Id: com.version1
+Build-Jdk: 1.8.0_92
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
